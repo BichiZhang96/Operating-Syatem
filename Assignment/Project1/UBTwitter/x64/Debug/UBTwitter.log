@@ -1,0 +1,22 @@
+﻿  ConnectionList.cpp
+  LinkedList.cpp
+  MailslotMgr.cpp
+d:\computer science\operating systems\assignment\bichizhang_project1\ubtwitter\mailslotmgr.cpp(54): error C2065: “pThread”: 未声明的标识符
+d:\computer science\operating systems\assignment\bichizhang_project1\ubtwitter\mailslotmgr.cpp(54): error C2065: “thread_id”: 未声明的标识符
+d:\computer science\operating systems\assignment\bichizhang_project1\ubtwitter\mailslotmgr.cpp(133): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h(1446): note: 参见“_swprintf”的声明
+  MailBoxMessage.cpp
+d:\computer science\operating systems\assignment\bichizhang_project1\ubtwitter\mailboxmessage.cpp(98): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h(1446): note: 参见“_swprintf”的声明
+  SharedMemoryIO.cpp
+d:\computer science\operating systems\assignment\bichizhang_project1\ubtwitter\sharedmemoryio.cpp(11): warning C4005: “NO_DATA”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(683): note: 参见“NO_DATA”的前一个定义
+d:\computer science\operating systems\assignment\bichizhang_project1\ubtwitter\sharedmemoryio.cpp(83): error C2275: “LPTSTR”: 将此类型用作表达式非法
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winnt.h(548): note: 参见“LPTSTR”的声明
+d:\computer science\operating systems\assignment\bichizhang_project1\ubtwitter\sharedmemoryio.cpp(83): error C2146: 语法错误: 缺少“)”(在标识符“unique_id”的前面)
+d:\computer science\operating systems\assignment\bichizhang_project1\ubtwitter\sharedmemoryio.cpp(83): error C2146: 语法错误: 缺少“;”(在标识符“unique_id”的前面)
+d:\computer science\operating systems\assignment\bichizhang_project1\ubtwitter\sharedmemoryio.cpp(83): error C2065: “unique_id”: 未声明的标识符
+d:\computer science\operating systems\assignment\bichizhang_project1\ubtwitter\sharedmemoryio.cpp(89): error C2065: “unique_id”: 未声明的标识符
+d:\computer science\operating systems\assignment\bichizhang_project1\ubtwitter\sharedmemoryio.cpp(89): error C2059: 语法错误:“)”
+  Twitter.cpp
+  正在生成代码...
