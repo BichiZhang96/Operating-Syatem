@@ -1,0 +1,6 @@
+﻿  MemoryManagementPart2.cpp
+d:\computer science\operating systems\assignment\project4\memorymanagementpart2.cpp(268): warning C4101: “swap_page”: 未引用的局部变量
+d:\computer science\operating systems\assignment\project4\memorymanagementpart2.cpp(299): warning C4101: “TLB_index”: 未引用的局部变量
+d:\computer science\operating systems\assignment\project4\memorymanagementpart2.cpp(298): warning C4101: “TLBpage”: 未引用的局部变量
+d:\computer science\operating systems\assignment\project4\memorymanagementpart2.cpp(361): warning C4715: “swapPage_Optimal”: 不是所有的控件路径都返回值
+  MemoryManagementPart2.vcxproj -> D:\Computer Science\Operating Systems\Assignment\project4\Debug\MemoryManagementPart2.exe
