@@ -1,0 +1,6 @@
+﻿  FileSystem.cpp
+d:\computer science\operating systems\project\cpeg308_503_project_5_file_system\filesystem.cpp(23): warning C4101: “offset”: 未引用的局部变量
+d:\computer science\operating systems\project\cpeg308_503_project_5_file_system\filesystem.cpp(53): warning C4018: “>=”: 有符号/无符号不匹配
+d:\computer science\operating systems\project\cpeg308_503_project_5_file_system\filesystem.cpp(59): warning C4018: “>=”: 有符号/无符号不匹配
+d:\computer science\operating systems\project\cpeg308_503_project_5_file_system\filesystem.cpp(180): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  file_system.vcxproj -> D:\Computer Science\Operating Systems\Project\cpeg308_503_Project_5_file_system\Debug\file_system.exe

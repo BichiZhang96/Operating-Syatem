@@ -1,0 +1,12 @@
+PEG-308/CPSC-503, 11- Operating Systems, Fall 2019
+
+Assigned on November 18, 2019
+Project 5 – This is a Group Project
+
+The purpose of this project is to implement the Simple File System. The project is based on the version from Notre Dame University with a few modifications.
+
+Modifications:
+•	To keep the project simple, indirect pointers will only be implemented for extra credit. Therefore, file size will be limited to 5 block size
+•	The free data block list (bitmap), is constructed upon mounting the drive
+•	The “inode” blocks are loaded into memory upon mounting the disk. The “inode” blocks are written back to disk (if dirty) upon exiting the program.
+•	The project was design for Linux; our version is designed for windows.
